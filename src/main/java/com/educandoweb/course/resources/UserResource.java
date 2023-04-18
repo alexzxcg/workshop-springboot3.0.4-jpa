@@ -19,6 +19,7 @@ import com.educandoweb.course.entities.User;
 import com.educandoweb.course.services.UserService;
 
 
+
 @RestController
 @RequestMapping(value = "/users")
 public class UserResource {
